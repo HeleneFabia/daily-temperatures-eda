@@ -19,8 +19,14 @@ After cleaning the dataset, the data is explored on three levels: on a global, E
 
 <b>3. What are the hottest and coldest countries in the world?</b>
 
-![3a](https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/3a.png)
-![3b](https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/3b.png)
+<p align="eft">
+  <img width="300" height="400" src="https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/3a.png">
+</p>
+
+<p align="left">
+  <img width="200" height="400" src="https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/3b.png">
+</p>
+
 
 ### Europe
 
