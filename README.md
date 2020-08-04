@@ -20,9 +20,9 @@ After cleaning the dataset, the data is explored on three levels: on a global, E
 <b>3. What are the hottest and coldest countries in the world?</b>
 
 <p align="eft">
-  <img width="300" height="400" src="https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/3a_.png">
+  <img width="220" height="300" src="https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/3a_.png">
 </p> <p align="left">
-  <img width="220" height="400" src="https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/3b_.png">
+  <img width="170" height="300" src="https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/3b_.png">
 </p>
 
 
