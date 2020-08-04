@@ -61,8 +61,8 @@ After cleaning the dataset, the data is explored on three levels: on a global, E
 ![9b](https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/9b.png)
 
 
-### Problems I faced and how I solved them1a1b
+### Problems I faced and how I solved them
 - Some countries, above all in Africa, had a lot of missing temperature values (as  high as 80%). Thus, I decided to fill any missing temperatures with the mean temperature of the respective month and city. However, this was not possible for every city, since some of them lacked entire months of temperature data. So for those countries, I filled the missing values with the overall mean of the respective city. Another idea would have been to fill the missing temperature with the temperature of the previous day (however, for those cities with entire months missing, this again could have proven problematic).
-- conversion between Celsius and Fahrenheit, -99, 
-
+- Since I am not very familiar with temperatures in Fahrenheit, I converted them to Celsius. However, I overlooked the fact that missing temperature values (stored as -99) were also converted (to -72.78). So when I then turned to handling missing temperature values and converting them to NaN values, 'df.loc[df.AvgTemperature == -99, 'AvgTemperature'] = np.nan' did not apply to any data anymore - equally when filling NaN values with the mean (see above). When plotting and analyzing the data, however, the many temperature values of -72.78 distorted many of the plots, especially in Africa, where a lot of data is missing. Only after carefully analyzing what was going on was I able to find my mistake. I fxied this by first coverting -99 to Nan, and only then converting the temperature values from Fahrenheit to Celsius.
+  
 Data from: https://www.kaggle.com/sudalairajkumar/daily-temperature-of-major-cities
