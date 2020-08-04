@@ -3,7 +3,7 @@ daily-temperatures-eda
 
 This exploratory analysis looks at global temperatures between 1995 and 2019 and explores Europe and Austria in more detail.
 
-After cleaning the dataset, the data is explored on three levels: on a global, European, and Austrian one. To visualize the data in order to answer the questions above, the libraries seaborn and matplotlib are used, including lineplots, barplots, boxplots, violinplots, histograms, and heatmaps.
+After cleaning the dataset, the data is explored on three levels: on a global, European, and Austrian one. To visualize the data in order to answer the questions below, the libraries seaborn and matplotlib are used, including lineplots, barplots, boxplots, violinplots, histograms, and heatmaps.
 
 ### Global
 
