@@ -21,10 +21,8 @@ After cleaning the dataset, the data is explored on three levels: on a global, E
 
 <p align="eft">
   <img width="300" height="400" src="https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/3a.png">
-</p>
-
-<p align="left">
-  <img width="200" height="400" src="https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/3b.png">
+</p> <p align="left">
+  <img width="220" height="400" src="https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/3b.png">
 </p>
 
 
