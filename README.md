@@ -53,12 +53,12 @@ After cleaning the dataset, the data is explored on three levels: on a global, E
 <b>8. How did yealry/monthly temperatures change in Austria between 1995 and 2019?</b>
 
 ![8a](https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/8a.png)
-![8b](https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/8b.png)
+![8b](https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/9b.png)
 
 <b>9. What are the average temperatures in Austria each month?</b>
 
 ![9a](https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/9a.png)
-![9b](https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/9b.png)
+![9b](https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/8b.png)
 
 
 ### Problems I faced and how I solved them
