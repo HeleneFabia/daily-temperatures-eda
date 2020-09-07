@@ -1,4 +1,3 @@
-daily-temperatures-eda
 # Daily Temperatures EDA (Global, Europe, Austria)
 
 This exploratory analysis looks at global temperatures between 1995 and 2019 and explores Europe and Austria in more detail.
