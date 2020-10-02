@@ -29,7 +29,6 @@ After cleaning the dataset, the data is explored on three levels: on a global, E
 
 <b>4. How are average European temperatures distributed?</b>
 
-![4a](https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/4a.png)
 ![4b](https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/4b.png)
 
 <b>5. How do average temperatures of different European countries compare to each other?</b>
