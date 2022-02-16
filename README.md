@@ -8,19 +8,17 @@ After cleaning the dataset, the data is explored on three levels: on a global, E
 
 <b>1. How did yearly/monthly global temperatures change between 1995 and 2019?</b>
 
-<p align="left">
-  <img width="220" height="300" src="https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/avg_global_temps.png">
-</p> <p align="left">
-  <img width="250" height="300" src="https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/avg_global_temps_heatmap.png">
+<p align="center">
+  <img width="1080" height="576" src="https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/avg_global_temps.png">
 </p>
-
-![1a](https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/avg_global_temps.png)
-![1b](https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/avg_global_temps_heatmap.png)
 
 <b>2. How do average temperatures of different regions in the world differ from each other and how did they change over time?</b>
 
-![2a](https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/avg_temp_regions.png)
-![2c](https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/dist_temps_box.png)
+<p align="center">
+  <img width="1080" height="576" src="https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/avg_temp_regions.png">
+<p align="center">
+  <img width="950" height="670" src="https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/dist_temps_kde.png">
+</p>
 
 <b>3. What are the hottest and coldest countries in the world?</b>
 
@@ -35,33 +33,46 @@ After cleaning the dataset, the data is explored on three levels: on a global, E
 
 <b>4. How are average European temperatures distributed?</b>
 
-![4b](https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/dist_temps_europe.png)
+<p align="center">
+  <img width="720" height="360" src="https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/dist_temps_europe.png">
+</p>
 
 <b>5. How do average temperatures of different European countries compare to each other?</b>
 
-![5a](https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/dist_temps_europe_box.png)
-![5b](https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/avg_temps_europe_country.png)
+<p align="center">
+  <img width="1440" height="450" src="https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/dist_temps_europe_box.png">
+<p align="center">
+  <img width="1080" height="576" src="https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/avg_temps_europe_country.png">
+</p>
 
 <b>6. How did yearly/monthly average temperatures change in Europe between 1995 and 2019?</b>
 
-![6a](https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/avg_temps_europe_heatmap.png)
+<p align="center">
+  <img width="1000" height="500" src="https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/avg_temps_europe_heatmap.png">
+</p>
 
 
 ### Austria
 
 <b>7. How are average Austrian temperatures distributed?</b>
 
-![7a](https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/dist_temps_austria.png)
+<p align="center">
+  <img width="720" height="504" src="https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/dist_temps_austria.png">
+</p>
 
-<b>8. How did yealry/monthly temperatures change in Austria between 1995 and 2019?</b>
+<b>8. How did yearly/monthly temperatures change in Austria between 1995 and 2019?</b>
 
-![8a](https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/avg_temps_austria.png)
-![8b](https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/avg_temps_austria_heatmap.png)
+<p align="center">
+  <img width="1000" height="500" src="https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/avg_temps_austria.png">
+<p align="center">
+  <img width="1000" height="500" src="https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/avg_temps_austria_heatmap.png">
+</p>
 
 <b>9. What are the average temperatures in Austria each month?</b>
 
-![9a](https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/9a.png)
-![9b](https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/month_temps_austria.png)
+<p align="center">
+  <img width="1080" height="576" src="https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/month_temps_austria.png">
+</p>
 
 
 ### Problems I faced and how I solved them
