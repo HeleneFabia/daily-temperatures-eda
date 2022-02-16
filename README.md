@@ -8,6 +8,12 @@ After cleaning the dataset, the data is explored on three levels: on a global, E
 
 <b>1. How did yearly/monthly global temperatures change between 1995 and 2019?</b>
 
+<p align="left">
+  <img width="220" height="300" src="https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/avg_global_temps.png">
+</p> <p align="left">
+  <img width="250" height="300" src="https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/avg_global_temps_heatmap.png">
+</p>
+
 ![1a](https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/avg_global_temps.png)
 ![1b](https://github.com/HeleneFabia/daily-temperatures-eda/blob/master/images/avg_global_temps_heatmap.png)
 
